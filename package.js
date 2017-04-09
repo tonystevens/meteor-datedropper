@@ -1,6 +1,6 @@
 ﻿Package.describe({
   name: "tonystevens:datedropper",
-  version: "1.0.0",
+  version: "1.0.1",
   summary: "Fancy date picker for text input. A Meteor wrapper for Datedropper3 from Felice Gattuso",
   git: "https://github.com/tonystevens/meteor-datedropper",
 });
