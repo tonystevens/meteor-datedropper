@@ -7,7 +7,7 @@
 
 Package.onUse(function (api) {
   api.versionsFrom("METEOR@1.4.2");
-  api.use('jquery@1.7.0', 'client');
+  api.use('jquery@1.11.10', 'client');
 
   api.addFiles('datedropper.js', 'client');
   api.addFiles('datedropper.css', 'client');
